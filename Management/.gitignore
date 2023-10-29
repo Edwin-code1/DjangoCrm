@@ -1,0 +1,13 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Environment-specific files
+*.env
+db.sqlite3
+.vscode/
